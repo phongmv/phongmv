@@ -4,6 +4,8 @@
 I'm a frontend engineer with 3 years of experience. I thrive on challenges, enjoy logical thinking, and am known for being a responsible and reliable person. Constantly learning and evolving, I aim to push the boundaries of web development.
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/phong-mai-6448b2313/).
+Gmail: maiphong1796@gmail.com
+Zalo: +84 0344632130
 
 ## Tech Stack
 
