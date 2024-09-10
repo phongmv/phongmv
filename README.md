@@ -5,10 +5,6 @@ I'm a frontend engineer with 3 years of experience. I thrive on challenges, enjo
 
 You can connect with me on: [LinkedIn](https://www.linkedin.com/in/phong-mai-6448b2313/).
 
-#Gmail: maiphong1796@gmail.com
-
-#Zalo: +84 0344632130
-
 ## Tech Stack
 
 ### Languages and Frameworks
